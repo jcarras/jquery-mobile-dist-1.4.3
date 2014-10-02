@@ -1,0 +1,12 @@
+{
+  "name": "jquery-mobile-dist",
+  "version": "1.4.3",
+  "description": "jquery mobile distrib artifacts.",
+  "main": "jquery.mobile-1.4.3.min.js",
+  "author": "Someone awesome",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jcarras/jquery-mobile-dist-1.4.3.git"
+  }
+}
